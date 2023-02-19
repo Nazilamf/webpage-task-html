@@ -1,0 +1,76 @@
+#navbar .start {
+    padding: 18px;
+    background-color: black;
+    display: flex;
+    justify-content: left;
+  
+}
+#navbar .start h1{
+    color: white;
+    background-color: black;
+    float: left;
+   
+    
+}
+
+#navbar .start li{
+    display: inline;
+    float:inline-end;
+  
+    color: white;
+    background-color: black;
+}
+
+#welcome .content{
+padding: 18px;
+background-color: dodgerblue;
+
+
+}
+
+#welcome .content h1{
+    color: white;
+    text-align:center
+
+    
+    
+}
+ #welcome .content p{
+    color: white;
+    text-align: center;
+
+ }
+ 
+ #welcome .content button{
+    background-color: white;
+    text-align: center;
+margin: auto;
+display: block;
+
+ }
+
+ #about .info{
+    background-color: white;
+   
+ }
+
+ #services .text{
+    background-color:lightgrey;
+   
+
+ }
+
+ #contact .text1{
+    background-color: white;
+ }
+
+ #footer .website {
+    background-color: black;
+    color: white;
+    padding: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+ }
